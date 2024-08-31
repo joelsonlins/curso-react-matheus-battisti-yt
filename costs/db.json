@@ -1,18 +1,6 @@
 {
   "projects": [
     {
-      "id": "572b",
-      "": "s",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "name": "Projeto 01",
-      "budget": "10000",
-      "cost": 0,
-      "services": []
-    },
-    {
       "id": "07c1",
       "": "s",
       "category": {
@@ -21,29 +9,6 @@
       },
       "name": "Projeto 02",
       "budget": "30000",
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "de7d",
-      "": "s",
-      "category": {
-        "id": "2",
-        "name": "Design"
-      },
-      "name": "Projeto 03",
-      "budget": "5000",
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "479d",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "name": "Arquitetura Geral",
-      "budget": "12785",
       "cost": 0,
       "services": []
     }
