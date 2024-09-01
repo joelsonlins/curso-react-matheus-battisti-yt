@@ -20,6 +20,30 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
+      "cost": 10500,
+      "services": [
+        {
+          "name": "Serviço 01",
+          "cost": "10000",
+          "description": "Testando serviço",
+          "id": "d5e5b810-0e4c-401d-9cf8-f0dc4cf67894"
+        },
+        {
+          "name": "Contratar Dev PHP",
+          "cost": "500",
+          "description": "Vai criar a função de envio de emails",
+          "id": "b397b5e0-c4cf-4597-8409-2dac781ebd7c"
+        }
+      ]
+    },
+    {
+      "id": "7c14",
+      "name": "Terceiro Projeto",
+      "budget": "5000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
       "cost": 0,
       "services": []
     }
